@@ -1,4 +1,4 @@
-# change-point prediction
+# Change-point Detection
 ## config.ini : 
 provide the seed and path locations to store the model and results in config file(common/config.ini)
 
